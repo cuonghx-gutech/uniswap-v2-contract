@@ -14,6 +14,8 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
+npx hardhat run scripts/deploy.js --network <network-name>
+
 # G.U.SANDBOX contract address:
 
 - factory: 0xDf3A301BF405e65a40629f471311073e5927Db08
